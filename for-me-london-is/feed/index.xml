@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: For me, London is&#8230;	</title>
+	<atom:link href="/for-me-london-is/feed/" rel="self" type="application/rss+xml" />
+	<link>/for-me-london-is/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=for-me-london-is</link>
+	<description>A fashion, culture, art and music publication, written by students about students.</description>
+	<lastBuildDate>Tue, 24 Jan 2017 20:37:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Emma Drinkwater		</title>
+		<link>/for-me-london-is/#comment-435</link>
+
+		<dc:creator><![CDATA[Emma Drinkwater]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2016 10:12:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-435</guid>
+
+					<description><![CDATA[An excellent article with lovely photos. Very inspiring indeed. Love the magazine also. Thanks guys!]]></description>
+			<content:encoded><![CDATA[<p>An excellent article with lovely photos. Very inspiring indeed. Love the magazine also. Thanks guys!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Secret admirer ?		</title>
+		<link>/for-me-london-is/#comment-433</link>
+
+		<dc:creator><![CDATA[Secret admirer ?]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2016 06:27:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-433</guid>
+
+					<description><![CDATA[You&#039;re amazing Juliey ?I love ur writing style :*]]></description>
+			<content:encoded><![CDATA[<p>You&#8217;re amazing Juliey ?I love ur writing style :*</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
